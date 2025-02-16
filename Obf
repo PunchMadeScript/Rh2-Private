@@ -27,7 +27,7 @@ local ShotTypes = {
     ["Standing Layup"] = 0.459,
     ["Reverse Layup"] = 0.6287178,
     ["Moving Dunk"] = 0.511,
-    ["Standing Dunk"] = 0.567,
+    ["Standing Dunk"] = 0.467,
     ["Close Post Fade"] = 0.93,
     ["Post Fade"] = 0.571,
 }
